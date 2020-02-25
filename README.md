@@ -1,6 +1,7 @@
 # Practical Assignment 1
 Please put your name (or names if you work in a group) here:  
-**Name**: .......
+**Name**: Shalom-David Anifowoshe
+
 ## Problem 1.1
 ### Calculate Frames-per-Second (FPS) (Points 30)
 1. Fork the current repository
